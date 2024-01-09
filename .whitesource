@@ -37,5 +37,6 @@
            "addDockerfilePath": false,
            "addMendIdentifier": false
        }
-   }
+   },
+  "leastVulnerablePackageSettings": { "enabled": "true" }
 }
